@@ -1,0 +1,5 @@
+# install
+
+pydicom==2.3.0
+tqdm==4.64.0
+SimpleITK==2.1.1

@@ -1,5 +1,5 @@
 # Installation
-Install the packages in the requirements files `pip install library`
+Install the packages in the requirements files `pip install -r requirements.txt`
 
 ---
 
